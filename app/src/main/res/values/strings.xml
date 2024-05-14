@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ba9-App</string>
+    <string name="enter_email">Enter Your Email</string>
+    <string name="enter_pass">Enter Your Password</string>
+    <string name="sign_up">Sign UP</string>
+    <string name="already_registered">Already Registered ? Sign IN</string>
+    <string name="sign_in">Sign IN</string>
+    <string name="not_registered">Not Registered Yet ? Sign UP</string>
+    <string name="profile">My Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="username">Enter Your Name</string>
+    <string name="save">Save</string>
+    <string name="enter_caption">Enter Caption</string>
+    <string name="add_post">Add Post</string>
+</resources>

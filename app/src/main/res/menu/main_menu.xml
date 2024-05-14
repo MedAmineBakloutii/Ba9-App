@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    <item-->
+<!--        android:id="@+id/profile_menu"-->
+<!--        android:title="@string/profile"-->
+<!--        android:textColor="#000000"/>/>-->
+    <item
+        android:id="@+id/signOut_menu"
+        android:title="@string/sign_out"
+        android:textColor="#000000"/>
+</menu>

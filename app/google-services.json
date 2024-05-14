@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607955866141",
+    "project_id": "ba9-app",
+    "storage_bucket": "ba9-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607955866141:android:a75f9e75edbf40aef2ecf4",
+        "android_client_info": {
+          "package_name": "com.example.ba9_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNWJSGfPlPgvDAWlO0rft9MlQuatamGQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
